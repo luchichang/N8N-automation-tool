@@ -11,7 +11,7 @@
 - open firewall for the specific port (if applicable)
 
 ### note,
-    if you're trying to install docker in your ephemeral cloud VM. then, try running the script here ![Docker-Installer-Script](https://github.com/luchichang/Python-and-Bash-Scripting/blob/main/Bash-Scripting/Docker-Installation-script/docker-installer.sh) 
+    if you're trying to install docker in your ephemeral cloud VM. then, try running the script here [Docker-Installer-Script](https://github.com/luchichang/Python-and-Bash-Scripting/blob/main/Bash-Scripting/Docker-Installation-script/docker-installer.sh) 
 which will automatically installs the official docker engine and docker compose requried for further moving.
 
 ## Steps,
